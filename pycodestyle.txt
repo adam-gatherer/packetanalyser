@@ -1,0 +1,10 @@
+pcap_analyser.py:37:31: W605 invalid escape sequence '\.'
+pcap_analyser.py:37:37: W605 invalid escape sequence '\.'
+pcap_analyser.py:37:43: W605 invalid escape sequence '\.'
+pcap_analyser.py:55:41: W605 invalid escape sequence '\('
+pcap_analyser.py:55:52: W605 invalid escape sequence '\)'
+pcap_analyser.py:91:30: W605 invalid escape sequence '\.'
+pcap_analyser.py:123:25: E127 continuation line over-indented for visual indent
+pcap_analyser.py:179:80: E501 line too long (88 > 79 characters)
+pcap_analyser.py:219:80: E501 line too long (106 > 79 characters)
+pcap_analyser.py:259:80: E501 line too long (80 > 79 characters)
